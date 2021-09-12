@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="159402bd-7bb0-4789-b96b-aa5112ad8e59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1y2x110WzYT76LwWNN1zjUbPy5C" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="159402bd-7bb0-4789-b96b-aa5112ad8e59" name="Default Changelist" comment="" />
+      <created>1631463268990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631463268990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="543" height="466" key="DebuggerActiveHint" timestamp="1631465741618">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="543" height="466" key="DebuggerActiveHint/0.23.1792.1031@0.23.1792.1031" timestamp="1631465741618" />
+    <state width="1398" height="281" key="GridCell.Tab.0.bottom" timestamp="1631466024375">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1631466024375" />
+    <state width="1398" height="281" key="GridCell.Tab.0.center" timestamp="1631466024374">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1631466024374" />
+    <state width="1398" height="281" key="GridCell.Tab.0.left" timestamp="1631466024374">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1631466024374" />
+    <state width="1398" height="281" key="GridCell.Tab.0.right" timestamp="1631466024375">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1631466024375" />
+    <state x="587" y="293" width="604" height="548" key="find.popup" timestamp="1631464390135">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="587" y="293" width="604" height="548" key="find.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1631464390135" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/bloc/calculation_bloc.dart</url>
+          <line>75</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/bloc/calculation_bloc.dart</url>
+          <line>84</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
