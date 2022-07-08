@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159402bd-7bb0-4789-b96b-aa5112ad8e59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fluttercalc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fluttercalc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/calculation_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/calculation_model.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +26,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -42,33 +51,58 @@
       <option name="presentableId" value="Default" />
       <updated>1631463268990</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1631466219235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631466219235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="466" y="111" key="CommitChangelistDialog2" timestamp="1631466218986">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="466" y="111" key="CommitChangelistDialog2/0.23.1792.1031@0.23.1792.1031" timestamp="1631466218986" />
     <state width="543" height="466" key="DebuggerActiveHint" timestamp="1631465741618">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state width="543" height="466" key="DebuggerActiveHint/0.23.1792.1031@0.23.1792.1031" timestamp="1631465741618" />
-    <state width="1398" height="281" key="GridCell.Tab.0.bottom" timestamp="1631466024375">
+    <state width="1398" height="281" key="GridCell.Tab.0.bottom" timestamp="1631525755983">
+      <screen x="0" y="23" width="1440" height="3351" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.bottom/0.23.1440.3351@0.23.1440.3351" timestamp="1631525755983" />
+    <state width="1398" height="281" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1631467345335" />
+    <state width="1398" height="281" key="GridCell.Tab.0.center" timestamp="1631525755983">
+      <screen x="0" y="23" width="1440" height="3351" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.center/0.23.1440.3351@0.23.1440.3351" timestamp="1631525755983" />
+    <state width="1398" height="281" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1631467345335" />
+    <state width="1398" height="281" key="GridCell.Tab.0.left" timestamp="1631525755983">
+      <screen x="0" y="23" width="1440" height="3351" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.left/0.23.1440.3351@0.23.1440.3351" timestamp="1631525755983" />
+    <state width="1398" height="281" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1631467345334" />
+    <state width="1398" height="281" key="GridCell.Tab.0.right" timestamp="1631525755983">
+      <screen x="0" y="23" width="1440" height="3351" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.right/0.23.1440.3351@0.23.1440.3351" timestamp="1631525755983" />
+    <state width="1398" height="281" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1631467345335" />
+    <state x="489" y="278" key="Vcs.Push.Dialog.v2" timestamp="1631466225706">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1398" height="281" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1631466024375" />
-    <state width="1398" height="281" key="GridCell.Tab.0.center" timestamp="1631466024374">
-      <screen x="0" y="23" width="1792" height="1031" />
-    </state>
-    <state width="1398" height="281" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1631466024374" />
-    <state width="1398" height="281" key="GridCell.Tab.0.left" timestamp="1631466024374">
-      <screen x="0" y="23" width="1792" height="1031" />
-    </state>
-    <state width="1398" height="281" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1631466024374" />
-    <state width="1398" height="281" key="GridCell.Tab.0.right" timestamp="1631466024375">
-      <screen x="0" y="23" width="1792" height="1031" />
-    </state>
-    <state width="1398" height="281" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1631466024375" />
-    <state x="587" y="293" width="604" height="548" key="find.popup" timestamp="1631464390135">
-      <screen x="0" y="23" width="1792" height="1031" />
+    <state x="489" y="278" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1631466225706" />
+    <state x="839" y="283" width="863" height="527" key="find.popup" timestamp="1632112590659">
+      <screen x="0" y="23" width="2560" height="991" />
     </state>
     <state x="587" y="293" width="604" height="548" key="find.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1631464390135" />
+    <state x="839" y="283" width="863" height="527" key="find.popup/0.23.2560.991@0.23.2560.991" timestamp="1632112590659" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
